@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haajw.github.io/faC/sitemap.faC.gz
